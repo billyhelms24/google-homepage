@@ -1,0 +1,1 @@
+The goal of this project is to recreate the Google homepage, using what I've learned by teaching myself through The Odin Project.
