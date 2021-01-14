@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/style.css" />
 
     <title>Google Copy</title>
   </head>
@@ -21,24 +21,27 @@
     </div>
     <main>
       <img
+        class="logo"
         src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
         alt="google logo"
       />
-      <form action="">
-        <input type="text" />
+      <form action="" class="text-input">
+        <input type="text" placeholder="Search..." />
       </form>
-      <button>Google Search</button>
-      <button>I'm Feeling Lucky</button>
+      <div class="button-row">
+        <button class="search-button">Google Search</button>
+        <button class="lucky-button">I'm Feeling Lucky</button>
+      </div>
     </main>
     <div class="footer">
       <ul>
-        <li>Advertising</li>
-        <li>Business</li>
-        <li>How Search works</li>
-        <li>Carbon neutral since 2007</li>
-        <li>Privacy</li>
-        <li>Terms</li>
-        <li>Settings</li>
+        <li><a href="#">Advertising</a></li>
+        <li><a href="#">Business</a></li>
+        <li><a href="#">How Search works</a></li>
+        <li class="float-none"><a href="#">Carbon neutral since 2007</a></li>
+        <li class="float-right"><a href="#">Settings</a></li>
+        <li class="float-right"><a href="#">Terms</a></li>
+        <li class="float-right"><a href="#">Privacy</a></li>
       </ul>
     </div>
   </body>
