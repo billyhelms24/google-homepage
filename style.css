@@ -18,7 +18,7 @@ body {
 }
 
 .navbar {
-  height: 10%;
+  height: 5%;
 }
 
 ul {
@@ -43,7 +43,7 @@ li a {
   width: 100%;
   overflow: hidden;
   background-color: lightgray;
-  height: 10%;
+  height: 5%;
 }
 
 .footer a {
