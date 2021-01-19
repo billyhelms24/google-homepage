@@ -89,6 +89,7 @@ main {
 
 .logo {
   width: auto;
+  margin-bottom: 20px;
 }
 
 .text-input {
