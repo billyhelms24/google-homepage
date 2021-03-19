@@ -1,1 +1,3 @@
-The goal of this project is to recreate the Google homepage, using what I've learned by teaching myself through The Odin Project.
+# Google Homepage
+
+An attempted recreation of the famous Google Search page, using only basic HTML/CSS.
