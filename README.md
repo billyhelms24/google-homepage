@@ -4,4 +4,4 @@ An attempted recreation of the famous Google Search page, using only basic HTML/
 
 [**Live Preview**](https://billyhelms24.github.io/google-homepage/)
 
-![google-homepage.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/google-homepage.png)
+![google-homepage.png](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/google-homepage.png)
